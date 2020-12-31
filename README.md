@@ -1,8 +1,8 @@
-# last
+# 简介
 
-> A Vue.js project
+> 基于vue全家桶的在线商城应用
 
-## Build Setup 
+## 运行流程
 
 ``` bash
 # install dependencies
@@ -18,4 +18,14 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## github仓库地址
+
+```
+仓库地址：
+https://github.com
+github_page:
+https://xyaojin.github.io/
+```
+
+
+

@@ -1,0 +1,57 @@
+header,
+footer {
+  background-color: lightskyblue;
+}
+
+.mainTop {
+  background-color: floralwhite;
+}
+
+.intro {
+  color: lightskyblue;
+}
+
+
+
+.section {
+  border: lightskyblue 1px solid;
+}
+
+.pag span {
+  color: lightskyblue;
+}
+
+.mainTop .btn {
+  color: black;
+  border: lightskyblue 1px solid;
+}
+
+.mainTop .selected {
+  background-color: lightskyblue;
+}
+
+li {
+  border: 1px solid lightskyblue;
+}
+
+.active {
+  border: 1px solid lightskyblue;
+  background-color: lightskyblue;
+}
+
+.table .btn {
+  color: white;
+  background-color: lightskyblue;
+}
+
+.table .glyphicon {
+  color: lightskyblue;
+}
+
+.mainRight .btn {
+  background-color: lightskyblue;
+}
+
+.mainRight .btn:hover {
+  background-color: lightskyblue;
+}
